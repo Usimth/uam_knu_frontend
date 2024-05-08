@@ -14,7 +14,7 @@ html,body{
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: BalckHanSans-Regular;
+  font-family: Pretendard-Regular;
   font-size: 40px;
 }
 .tablist {
@@ -36,14 +36,14 @@ html,body{
 #dropdown-left{
   background-color: white;
   border-color: transparent;
-  font-family: BalckHanSans-Regular;
+  font-family: Pretendard-Regular;
   color : black;
   font-size: 20px;
 }
 #dropdown-right{
   background-color: white;
   border-color: transparent;
-  font-family: BalckHanSans-Regular;
+  font-family: Pretendard-Regular;
   color : black;
   font-size: 20px;
 }
